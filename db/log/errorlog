@@ -148,3 +148,12 @@
 2024-08-24 18:54:49.93 spid56s     The Database Mirroring endpoint is in disabled or stopped state.
 2024-08-24 18:54:49.94 spid56s     Service Broker manager has started.
 2024-08-24 18:54:49.95 spid26s     Recovery is complete. This is an informational message only. No user action is required.
+2024-08-24 18:59:42.00 spid51      XE session 'telemetry_xevents' stopping.
+2024-08-24 18:59:42.09 spid51      XE session 'telemetry_xevents' started.
+2024-08-24 18:59:52.55 spid51      Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.
+2024-08-24 18:59:52.70 spid51      Using 'xplog70.dll' version '2022.160.4135' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.
+2024-08-24 19:04:39.37 spid26s     Always On: The availability replica manager is going offline because SQL Server is shutting down. This is an informational message only. No user action is required.
+2024-08-24 19:04:39.39 spid26s     SQL Server is terminating in response to a 'stop' request from Service Control Manager. This is an informational message only. No user action is required.
+2024-08-24 19:04:39.43 spid26s     .NET Framework runtime has been stopped.
+2024-08-24 19:04:39.55 spid56s     Service Broker manager has shut down.
+2024-08-24 19:04:40.25 spid26s     SQL Trace was stopped due to server shutdown. Trace ID = '1'. This is an informational message only; no user action is required.
